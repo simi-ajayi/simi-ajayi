@@ -31,10 +31,10 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simi-ajayi&layout=compact&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
+[![](./2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)/>
 </p>
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=simi-ajayi&theme=tokyo-night&hide_border=true" alt="Contribution Graph" /> </p>
+<p align="center"> [![](./0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) </p>
 
 ---
 
