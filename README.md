@@ -30,8 +30,11 @@
 ---
 
 ### 📊 GitHub Stats
-[![](https://raw.githubusercontent.com/simi-ajayi/simi-ajayi/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/simi-ajayi/simi-ajayi/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+<div align="center">
+  <img width="49%" src="https://raw.githubusercontent.com/simi-ajayi/simi-ajayi/master/profile-summary-card-output/github_dark/0-profile-details.svg" />
+  <img width="49%" src="https://raw.githubusercontent.com/simi-ajayi/simi-ajayi/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+</div>
 
 ---
 
