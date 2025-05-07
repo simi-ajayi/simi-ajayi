@@ -32,8 +32,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/simi-ajayi/simi-ajayi/master/profile-summary-card-output/github_dark/0-profile-details.svg" />
-  <img width="49%" src="https://raw.githubusercontent.com/simi-ajayi/simi-ajayi/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+  <img src="https://raw.githubusercontent.com/simi-ajayi/simi-ajayi/master/profile-summary-card-output/github_dark/0-profile-details.svg" />
+  <img src="https://raw.githubusercontent.com/simi-ajayi/simi-ajayi/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
 </div>
 
 ---
